@@ -1,5 +1,20 @@
 /*body{margin-top:50px;}*/
+body {
+    background: #005883;
+  }
+
 .glyphicon { margin-right:10px; }
 .panel-body { padding:0px; }
 .panel-body table tr td { padding-left: 15px }
 .panel-body .table {margin-bottom: 0px; }
+.main {
+    background: #fff;
+}
+
+#footer {
+    background: #f0b429;
+    color : #005883;
+}
+
+#navbar { background: #f0b429; }
+
